@@ -36,8 +36,8 @@ Clone o repositório:
 ```bash
 git clone https://github.com/GiovanaLima07/AmigoSecretoAutomatizado.git
 
+```
 Execute o script:
-
 python amigoSecreto.py
 
 Este projeto foi desenvolvido por Giovana como forma de praticar e demonstrar habilidades em Python, lógica de programação e envio automatizado de e-mails.
