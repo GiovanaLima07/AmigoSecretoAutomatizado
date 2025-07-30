@@ -35,6 +35,7 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/GiovanaLima07/AmigoSecretoAutomatizado.git
+ou baixe o arquivo em zip
 
 ```
 Execute o script:
